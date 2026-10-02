@@ -1,0 +1,15 @@
+{
+  "name": "Terror Swipe",
+  "short_name": "Terror Swipe",
+  "description": "Lista de películas de terror para marcar como vistas o pendientes.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#100d12",
+  "theme_color": "#100d12",
+  "lang": "es",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
